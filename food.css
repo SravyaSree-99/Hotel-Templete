@@ -1,0 +1,27 @@
+.bgimg{
+    background-image:url("https://img.freepik.com/free-photo/top-view-indian-food-assortment_23-2148747714.jpg?w=1060&t=st=1668580420~exp=1668581020~hmac=cbc6d684b3eccd1fa6d7957df90445aed2fcb1482e37fd5acfbb31387d721c64");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+.layoutcard{
+    background-color:orange;
+    height:200px;
+    width:100%;
+    border-radius:20px;
+    padding: 20px;
+
+}
+.paraline{
+    font-size:25px;
+    font-style: italic;
+}
+.btn1{
+    background-color: aliceblue;
+    border-radius:25px;
+    border-width: 0px;
+    width:500px;
+    padding: 10px;
+    font-size:25px; ;
+
+}
